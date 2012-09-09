@@ -14,4 +14,4 @@ Politics are bullshit and I wanted to find a way to quantify that.
 ### TODO
 - Measure keyword density
 - Capture derivatives of keywords
-- Grade on a curve
+- Score classifications on a curve
